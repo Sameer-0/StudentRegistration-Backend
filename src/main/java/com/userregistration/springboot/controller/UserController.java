@@ -9,7 +9,7 @@ import java.util.List;
 
 /* Created by Arjun Gautam */
 @RestController
-@CrossOrigin("https://springboot-react-application-v.herokuapp.com")
+@CrossOrigin("https://springboot-react-application-v.herokuapp.com/")
 public class UserController {
 
     @Autowired
